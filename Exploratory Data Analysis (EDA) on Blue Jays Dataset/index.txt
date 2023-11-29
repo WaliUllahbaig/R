@@ -1,0 +1,5 @@
+This R script conducts an Exploratory Data Analysis (EDA) on the Blue Jays dataset. The code utilizes the readr and ggplot2 packages to read the dataset and 
+create informative visualizations. Four key questions (Question-01 to Question-04) are addressed, exploring relationships between body mass and head length, 
+considering factors like sex and positive attributes. The visualizations include scatter plots, density plots, and regression lines, providing insights into 
+the dataset's characteristics. The code showcases effective data visualization techniques for understanding the distribution and relationships within the Blue 
+Jays dataset.
