@@ -1,0 +1,6 @@
+
+Housing Dataset Exploration in R
+Description:
+This dataset contains information on various housing properties, including the area in square feet, the number of bedrooms, bathrooms, 
+and floors, as well as the corresponding price. It provides a comprehensive overview of different housing characteristics, enabling in-depth 
+exploratory data analysis (EDA) to uncover patterns and insights.
